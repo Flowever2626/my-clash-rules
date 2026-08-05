@@ -1,2 +1,4 @@
 payload:
-   - bilibili.com
+  - .bilibili.com
+  - .hdslb.com
+  - .bilivideo.com   
